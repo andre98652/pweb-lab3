@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+    <script>
+        function recitar() {
+        const url = 'http://localhost:3000/recitar'
+        fetch(url).then(
+            response => response.json()
+        ).then(
+            data => {
+                document.querySelector("#poema").innerHTML = data.text
+            }
+        )
+        }   
+    </script>
+
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="welcome">poema</h1>
+    <h2 id="poema"></h2>
+    <script>recitar()</script>
+</body>
+</html>
