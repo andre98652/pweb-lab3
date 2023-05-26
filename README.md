@@ -287,7 +287,96 @@
 #
 
 ## EJERCICIOS PROPUESTOS
--   En grupos de 3 a 5 personas implemente una aplicación web que navegue sobre archivos Markdown y permita:
+- Ejercicio 1
+
+Código
+
+<img src="https://raw.githubusercontent.com/andre98652/pweb-lab3/main/imagenes/codigo%20ejercicio1.png">
+
+Ejecución
+
+<img src="https://raw.githubusercontent.com/andre98652/pweb-lab3/main/imagenes/ejecucion1.png">
+
+- Ejercicio 2
+
+Código Html
+
+<img src="https://raw.githubusercontent.com/andre98652/pweb-lab3/main/imagenes/ejercicio2-html.png">
+
+Código Javascript
+
+<img src="https://raw.githubusercontent.com/andre98652/pweb-lab3/main/imagenes/ejercicio2-js.png">
+
+Ejecución
+
+<img src="https://raw.githubusercontent.com/andre98652/pweb-lab3/main/imagenes/ejecucion2.png">
+
+- Ejercicio 3
+
+Código html
+
+<img src="https://raw.githubusercontent.com/andre98652/pweb-lab3/main/imagenes/ejercicio3-html.png">
+
+Código CSS
+
+<img src="https://raw.githubusercontent.com/andre98652/pweb-lab3/main/imagenes/ejercicio3-css.png">
+
+Código Javascript
+
+<img src="https://raw.githubusercontent.com/andre98652/pweb-lab3/main/imagenes/ejercicio3-js.png">
+
+Ejecución
+
+<img src="https://raw.githubusercontent.com/andre98652/pweb-lab3/main/imagenes/ejecucion3.png">
+
+- Ejercicio 4
+
+Código Html
+
+<img src="https://raw.githubusercontent.com/andre98652/pweb-lab3/main/imagenes/ejercicio4-html.png">
+
+Código CSS
+
+<img src="https://raw.githubusercontent.com/andre98652/pweb-lab3/main/imagenes/ejercicio4-css.png">
+
+Código Javascript
+
+<img src="https://raw.githubusercontent.com/andre98652/pweb-lab3/main/imagenes/ejercicio4-js.png">
+
+Código poema
+
+<img src="https://raw.githubusercontent.com/andre98652/pweb-lab3/main/imagenes/ejercicio4-txt.png">
+
+Ejecución
+
+<img src="https://raw.githubusercontent.com/andre98652/pweb-lab3/main/imagenes/ejecucion4.png">
+
+- Ejercicio 5
+
+Código Html
+
+ <img src="https://raw.githubusercontent.com/andre98652/pweb-lab3/main/imagenes/ejercicio5-html.png">
+ 
+Código CSS
+
+ <img src="https://raw.githubusercontent.com/andre98652/pweb-lab3/main/imagenes/ejercicio5-css.png">
+ 
+ Código Javascript
+ 
+ <img src="https://raw.githubusercontent.com/andre98652/pweb-lab3/main/imagenes/ejercicio5-js.png">
+ 
+Ejecución
+
+<img src="https://raw.githubusercontent.com/andre98652/pweb-lab3/main/imagenes/ejecucion5.png">
+
+
+
+
+
+
+
+  
+- En grupos de 3 a 5 personas implemente una aplicación web que navegue sobre archivos Markdown y permita:
     1. Listas los archivos Markdown disponibles
     2. Ver el contenido de un archivo Markdown traducido a HTML
     3. Crear nuevos archivos MarkDown y almacenarlos en el servidor
